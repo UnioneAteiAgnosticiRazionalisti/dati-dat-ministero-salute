@@ -7,6 +7,10 @@ Il 23 agosto 2024 è arrivata la risposta, che riportiamo sintetizzata qui sotto
 
 I dati forniti sono nel file `2024_08_20_DAT_trasmesse_dai_Comunu_rev2.xlsx`.
 
+L'elaborazione Uaar è nel file `Elaborazione_Uaar_ElencoComuniDatPopolazione.ods`.
+
+I dati relativi alle province sono visualizzati nella [mappa interattiva su Flourish Studio](https://public.flourish.studio/visualisation/20974783/).
+
 ## Richiesta
 
                             
