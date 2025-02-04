@@ -1,4 +1,16 @@
-# Istanza Accesso Civico Generalizzato
+# Disposizione Anticipate di Trattamento
+
+## Un lustro di Disposizioni anticipate di trattamento
+
+### Cinque anni da celebrare, ma l'Uaar denuncia che qualcosa non torna: i Comuni non inviano tempestivamente al Ministero della Salute i dati aggiornati sui testamenti biologici
+
+Il 1 febbraio 2025 si è celebrato un importante anniversario. Cinque anni fa, nel 2020, è stata istituita la Banca dati delle Disposizioni anticipate di trattamento, anche conosciute come testamento biologico. La Banca dati del Ministero della Salute nella quale dovrebbero confluire le Dat depositate dai cittadini italiani, non rispecchia tuttavia la reale situazione del Paese sul fine vita.
+
+Il [comunicato stampa](https://blog.uaar.it/2025/02/03/un-lustro-di-disposizioni-anticipate-di-trattamento/) relativo alla pubblicazione di questi dati è disponibile bel blog dell'Uaar.
+
+L'elaborazione dei dati è stata curata da Massimo Maiurana.
+
+## Istanza Accesso Civico Generalizzato
 
 Il 5 agosto 2024 è stata inviata una richiesta FOIA al Ministero della Salute
 con la compilazione del [modello](https://www.salute.gov.it/portale/ministro/p4_10_1_1.jsp?lingua=italiano&label=trasparenza21&id=1289&menu=trasparenza) disponibile nel sito web dello stesso
@@ -11,7 +23,7 @@ L'elaborazione Uaar è nel file `Elaborazione_Uaar_ElencoComuniDatPopolazione.od
 
 I dati relativi alle province sono visualizzati nella [mappa interattiva su Flourish Studio](https://public.flourish.studio/visualisation/20974783/).
 
-## Richiesta
+### Richiesta
 
                             
                             Al Ministero della salute
@@ -68,7 +80,7 @@ I dati relativi alle province sono visualizzati nella [mappa interattiva su Flou
     Luogo e data ____________05/08/2024  Firma (per esteso) ____________________________
 
 
-## Risposta
+### Risposta
 
     05/08/2024
 
